@@ -1,8 +1,41 @@
 {
 	"details":{
-		"name":"jazz",
-		"image":"profile icon.png",
+		"name":"Aasifa Shaik",
+		"image":"image/icon.png",
 		"phone":"7032659932",
 		"email":"aasifashaik029@gmail.com"
-	}
+	},
+	"education":[
+		{
+			"course":"B.Tech,CSE",
+			"college":"MIC college",
+			"per":"88%"
+
+		},
+		{
+			"course":"intermediate(mpc)",
+			"college":"sree bhatrathi junior college",
+			"per":"95%"
+		},
+		{
+			"course":"ssc",
+			"college":"aadarshavidyanikethan",
+			"per":"97%"
+		}
+
+		],
+	     "skills":[
+		{
+		"title":"programming language",
+		"output":[
+			"c","c++","java","python"]
+	 },
+{
+	"title":"operating systems",
+	"output":[
+		"windows","linux","MAC"]	
+
+}],"carrier":{
+	     	"co":"to associate with an oraganisation and utilize my skills inorder to increase the growth of our company and to help to mainatin our company in a good place among all.I will act as a selfresponsible person to my company"
+	     }
 }

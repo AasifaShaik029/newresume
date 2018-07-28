@@ -1,14 +1,63 @@
 .main{
 	width: 100%;
-	background-color: white;
+	background-color: purple;
 	display:flex;
-
-}
+	}
 .left{
 	 width: 30%;
 	 border: 3px solid black;
+	 box-shadow:3px 3px 3px white;
+	 margin:1%;
+	 padding:1%;
+	 background-color:white;
 }
 .right{
 	width: 70%;
 	border: 3px solid purple;
+	box-shadow:3px 3px 3px #2df;
+	 margin:1%;
+	 padding:1%;
+	 background-color:white;
+	}
+	img{
+		width:120px;
+		border-style:double;
+		border-radius:10px solid #000;
+	}
+@media only screen and (max-width: 425px)
+
+{
+	.main{
+	width: 80%;
+	background-color: white;
+	display:flex;
+	justify-content:center;
+	text-align:center;
+	flex-direction:row;
+
 }
+.left{
+	 width: 80%;
+	 border: 3px solid black;
+	 box-shadow:3px 3px 3px white;
+	 margin:1%;
+	 padding:1%;
+	 background-color:white;
+}
+.right{
+	width: 80%;
+	border: 3px solid purple;
+	box-shadow:3px 3px 3px #2df;
+	 margin:1%;
+	 padding:1%;
+	 background-color:white;
+	}
+}.sset table tr,td{
+	border:2px solid #000;
+	border-collapse:collapse;
+}
+tr
+{
+	color: violet;
+}
+
